@@ -1,0 +1,17 @@
+#=================================================================
+# 对象存储配置
+#=================================================================
+storage:
+  minio:
+    endpoint: http://127.0.0.1:9000
+    accessKey: gchong3068
+    secretKey: qliqianxun
+  aliyun-oss:
+    endpoint: oss-cn-beijing.aliyuncs.com # 改成你自己的
+    accessKey: LTAI5tSG426iLTh8meBogHyD # 改成你自己的
+    secretKey: Um3oSGWAfBfnLR60AP7UNdsM1QefQN # 改成你自己的
+
+jasypt:
+  encryptor:
+    password: 8m8Jx6I7RqQQukf
+    algorithm: PBEWithMD5AndDES

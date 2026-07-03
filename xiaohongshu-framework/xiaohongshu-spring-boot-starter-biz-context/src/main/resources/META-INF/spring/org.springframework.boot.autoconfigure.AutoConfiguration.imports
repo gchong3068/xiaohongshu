@@ -1,0 +1,2 @@
+com.gchong3068.framework.biz.context.config.ContextAutoConfiguration
+com.gchong3068.framework.biz.context.config.FeignContextAutoConfiguration
